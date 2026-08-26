@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "app": "mesh-budget-pot",
+  "sourceCommit": "f8dbb5518cead48b4366e2ba157f4a1c7dd9bf13",
+  "releaseCommit": "f8dbb5518cead48b4366e2ba157f4a1c7dd9bf13",
+  "meshCommonCommit": "025f7ff72e50c4b54a3f4a2d8c88f4f600dec78f",
+  "recordedAt": "2026-08-26T17:56:08Z"
+}
